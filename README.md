@@ -37,6 +37,20 @@ I'm a full-stack web developer, computer engineering student, and gym rat with a
 
 ---
 
+## ⚜️ Codatrix
+
+> Where code meets luxury.  
+> A personal brand focused on building refined, high-performance websites with clarity, soul, and precision.
+
+### 🎯 Focus
+Design-first dev. System thinking. Blazing-fast performance. Long-term maintainability.
+
+- 🌐 [Codatrix Site](https://codatrix.vercel.app/)
+- 🎨 Aesthetic: Cream × Gold × Charcoal
+- 🧠 Built by Mehdi, for creators and businesses who *get it*
+
+---
+
 > “Code is temporary. Impact is forever.”  
 > — You, after pushing a bug-free build at 2AM
 
