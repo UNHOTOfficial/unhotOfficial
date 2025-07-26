@@ -40,4 +40,4 @@ I'm a full-stack web developer, computer engineering student, and gym rat with a
 > “Code is temporary. Impact is forever.”  
 > — You, after pushing a bug-free build at 2AM
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0f0f0f&section=footer&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=auto&section=footer&reversal=false"/>
