@@ -18,7 +18,7 @@ I'm a full-stack web developer, computer engineering student, and gym rat with a
 ---
 
 ### 📈 GitHub Stats:
-![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UNHOTOfficial&show_icons=true&theme=tokyonight&hide=stars)
+![Mehdi's GitHub Stats]([![GitHub Streak](https://streak-stats.demolab.com?user=UNHOTOfficial&theme=tokyonight)](https://git.io/streak-stats))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNHOTOfficial&layout=compact&theme=tokyonight)
 
 ---
