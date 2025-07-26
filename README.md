@@ -14,7 +14,7 @@ I'm a full-stack web developer, computer engineering student, and gym rat with a
 ![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nodejs,express,prisma,mongodb,postgres,git,vercel,linux,figma)
 
 ### 🌍 Connect With Me:
-- 🧠 [Personal Website](https://codatrix.vercel.app/) – coming soon
+- 🧠 [Personal Website](https://codatrix.vercel.app/)
 - 💬 [LinkedIn](https://linkedin.com/in/mehdisa)
 - 📫 Reach me at: `your.email@example.com`
 
