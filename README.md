@@ -16,7 +16,7 @@ I'm a full-stack web developer, computer engineering student, and gym rat with a
 ### 🌍 Connect With Me:
 - 🧠 [Personal Website](https://codatrix.vercel.app/)
 - 💬 [LinkedIn](https://linkedin.com/in/mehdisa)
-- 📫 Reach me at: `your.email@example.com`
+- 📫 Reach me at: `MehdiSalmanzadeh@outlook.com`
 
 ### 🧩 Fun Facts:
 - 💥 Always chasing the *cleanest* commits
