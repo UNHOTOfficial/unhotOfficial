@@ -24,7 +24,7 @@ I'm a full-stack web developer, computer engineering student, and gym rat with a
 ---
 
 ### 🌍 Connect With Me:
-- 🧠 [Personal Website](https://codatrix.vercel.app/)
+- 🧠 [Personal Website](https://codatrix.dev/)
 - 💬 [LinkedIn](https://linkedin.com/in/mehdisa)
 - 📫 Reach me at: `MehdiSalmanzadeh@outlook.com`
 
@@ -45,7 +45,7 @@ I'm a full-stack web developer, computer engineering student, and gym rat with a
 ### 🎯 Focus
 Design-first dev. System thinking. Blazing-fast performance. Long-term maintainability.
 
-- 🌐 [Codatrix Site](https://codatrix.vercel.app/)
+- 🌐 [Codatrix Site](https://codatrix.dev/)
 - 🎨 Aesthetic: Cream × Gold × Charcoal
 - 🧠 Built by Mehdi, for creators and businesses who *get it*
 
